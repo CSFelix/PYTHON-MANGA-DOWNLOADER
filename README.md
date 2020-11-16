@@ -39,6 +39,8 @@ boku-no-hero-academia
 ```
 
 * And, _voilá_! The chapter is downloaded in your computer (normally on default download folder  of your browser).
+
+----
 ### `✉️ Contact ✉️`
 
 > **Email:** `csfelix08@gmail.com`
