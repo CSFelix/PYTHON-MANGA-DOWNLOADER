@@ -24,11 +24,11 @@
 * Some examples to download (I suggest you read this mangas, they are awesome):
 
 ```
-boku-no-hero-academia (290 chapters actually)
-we-want-to-talk-about-kaguya (103 chapters actually)
-noragami (91 chapters actually)
-dragon-ball-super (65 chapters actually)
-horimiya (120 chapters actually)
+boku-no-hero-academia (290 chapters actually, when I did this code)
+we-want-to-talk-about-kaguya (103 chapters actually, when I did this code)
+noragami (91 chapters actually, when I did this code)
+dragon-ball-super (65 chapters actually, when I did this code)
+horimiya (120 chapters actually, when I did this code)
 ```
 
 * Consider I wanna read the  chatper 290 of Boku no Hero Academia (without spoiler, but, this chapter is awesomeeeeeeeeee!!!!!!!!!!), I gonna run the code and tip the two inputs like this:
@@ -48,3 +48,7 @@ boku-no-hero-academia
 > **Linkedin:** `linkedin.com/in/csfelix/`
 
 > **Instagram:** `instagram.com/c0deplus/`
+
+----
+
+> **Portfolio:** **[CSFelix.io](https://csfelix.github.io/)**
